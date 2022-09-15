@@ -4,3 +4,4 @@ from bug3
 from bug5
 master commit
 6
+7
